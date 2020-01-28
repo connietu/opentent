@@ -1,4 +1,4 @@
-1. <a href="/gatherdc.html">gather cal mockup</a>
+1. <a href="/opentent/gatherdc.html">gather cal mockup</a>
 
 ---
 
